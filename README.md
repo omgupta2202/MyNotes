@@ -1,7 +1,7 @@
 # My Notes
 
-User can create a notes and also edit them.
+=> User can create Notes and also edit them.
 
 # Front Look
 
-![](Screenshot%20.png)
+![](Screenshot.png)
