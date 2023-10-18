@@ -6,3 +6,4 @@
 https://mynotesog.netlify.app
 
 ![](Screenshot.png)
+![](Screenshot1.png)
